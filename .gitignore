@@ -1,0 +1,14 @@
+# data and results are never committed (the dataset belongs to the challenge organisers)
+data/
+output/
+submissions/
+dataset/
+*.parquet
+*.tsv
+*.zip
+*.npy
+logs/
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
